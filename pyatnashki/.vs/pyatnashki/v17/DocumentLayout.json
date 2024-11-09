@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\\pyatnashki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECF1E5F-889D-4835-B7B3-BC9F1C8B066D}|pyatnashki\\pyatnashki.vcxproj|C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\\pyatnashki\\pyatnashki\\pyatnashki.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4ECF1E5F-889D-4835-B7B3-BC9F1C8B066D}|pyatnashki\\pyatnashki.vcxproj|solutionrelative:pyatnashki\\pyatnashki.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pyatnashki.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\\pyatnashki\\pyatnashki\\pyatnashki.cpp",
+              "RelativeDocumentMoniker": "pyatnashki\\pyatnashki.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u043A\u0443\u0440\u0441\\pyatnashki\\pyatnashki\\pyatnashki.cpp",
+              "RelativeToolTip": "pyatnashki\\pyatnashki.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T13:17:23.79Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

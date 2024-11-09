@@ -1,0 +1,3 @@
+﻿  pyatnashki.cpp
+C:\Users\User\Desktop\курс\pyatnashki\pyatnashki\pyatnashki.cpp(231,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\User\Desktop\курс\pyatnashki\x64\Debug\pyatnashki.exe for writing

@@ -1,0 +1,8 @@
+﻿Build started at 16:24...
+1>------ Build started: Project: pyatnashki, Configuration: Debug x64 ------
+1>pyatnashki.cpp
+1>C:\Users\User\Desktop\курс\pyatnashki\pyatnashki\pyatnashki.cpp(166,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+1>pyatnashki.vcxproj -> C:\Users\User\Desktop\курс\pyatnashki\x64\Debug\pyatnashki.exe
+1>Done building project "pyatnashki.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 16:24 and took 02,745 seconds ==========
